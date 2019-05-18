@@ -4,4 +4,4 @@ var name = 'Thomas';
 var height = 74;
 
 console.log("Name: " + name +";")
-console.log("Height: " + height + 1 + ";")
+console.log("Height: " + (height + 1) + ";")
